@@ -1,3 +1,6 @@
+Description: This option uses Blade as the templating engine and Alpine.js for adding interactivity to your views without the complexity of a full JavaScript framework.
+Use Case: Ideal for traditional server-rendered applications where you want some dynamic behavior without a full SPA framework.
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
